@@ -36,7 +36,7 @@ const app = express();
 app.use(
     cors({
       credentials: true,
-      origin: "https://main--jolly-basbousa-fa20d1.netlify.app/"
+      origin: "https://main--jolly-basbousa-fa20d1.netlify.app"
     })
   );
   
