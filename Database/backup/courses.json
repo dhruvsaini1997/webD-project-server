@@ -1,0 +1,20 @@
+[
+    { "_id": "RS101",
+      "name": "Rocket Propulsion", "number": "RS4550", "startDate": "2023-01-10",
+      "endDate": "2023-05-15", "description": "Learn how to propel a rocket."
+    },
+    { "_id": "RS102",
+      "name": "Aerodynamics", "number": "RS4560", "startDate": "2023-01-10", "endDate": "2023-05-15",
+      "description": "Learn about aerodynamics."
+    },
+    { "_id": "RS103",
+      "name": "Spacecraft Design", "number": "RS4570", "startDate": "2023-01-10", "endDate": "2023-05-15",
+      "description": "Learn about making space ships."
+    },
+    { "_id": "RS104",
+    "name": "Dummy", "number": "DU4570", "startDate": "2023-01-10", "endDate": "2023-05-15",
+    "description": "Learn about dummies."
+    }
+  ]
+  
+  

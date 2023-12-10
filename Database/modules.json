@@ -1,0 +1,65 @@
+[
+    {
+      "_id": "M101",
+      "name": "Introduction to the Course",
+      "description": "Learn Web Development - creating a web devlopment environment",
+      "week": "0",
+      "course": "RS101"
+    },
+    {
+      "_id": "M102",
+      "name": "HTML",
+      "description": "Introduction to DOM and HTML & Assignment 1, Deployment to Netlify",
+      "week": "1",
+      "course": "RS101"
+    },
+    {
+      "_id": "M103",
+      "name": "CSS",
+      "description": "Introduction to CSS, Selectors, IDs, Tags and document structure .",
+      "week": "2",
+      "course": "RS101"
+    },
+    {
+      "_id": "M201",
+      "name": "Design Exploration and Testing",
+      "description": "Essence of Objects.",
+      "week": "0",
+      "course": "RS102"
+    },
+    {
+      "_id": "M202",
+      "name": "Review of Java",
+      "description": "Java Safari.",
+      "week": "1",
+      "course": "RS102"
+    },
+    {
+      "_id": "M203",
+      "name": "Interface and Class Deisgn",
+      "description": "This lecture designs a simple example from scratch. We start from the description of a problem, convert it into an interface specification, complete one implementation and test it. In the next lecture we add another implementation, and show how abstraction can be used to minimize code replication..",
+      "week": "2",
+      "course": "RS102"
+    },
+    {
+      "_id": "M301",
+      "name": "Spacecraft Structural Design",
+      "description": "Fundamentals of designing spacecraft structures and materials selection.",
+      "week": "1",
+      "course": "RS103"
+    },
+    {
+      "_id": "M302",
+      "name": "Orbital Mechanics",
+      "description": "Understanding orbital dynamics and mission planning.",
+      "week": "2",
+      "course": "RS103"
+    },
+    {
+      "_id": "M303",
+      "name": "Spacecraft Systems Engineering",
+      "description": "Overview of spacecraft systems and subsystems engineering.",
+      "week": "3",
+      "course": "RS103"
+    }
+  ]

@@ -1,0 +1,208 @@
+[
+  {
+    "_id": "85510e70870c092d5441bc94",
+    "title": "Simple Math",
+    "question": "What is full form for HTML",
+    "format": "Multiple Choice",
+    "quiz": "75510e70870c092d5441bc94",
+    "answer": [
+      "1"
+    ],
+    "points": "1",
+    "options": [
+      "Hypertext Markup Language",
+      "Hyperbole Markup Language",
+      "Hypertext Makeup Language",
+      "Hypertext Makeup Language"
+    ]
+  },
+  {
+    "_id": "85510e70870c092d5441bc95",
+    "title": "Bigger Simple Math",
+    "question": "How much is 3+3?",
+    "format": "Multiple Choice",
+    "quiz": "75510e70870c092d5441bc94",
+    "answer": [
+      "2"
+    ],
+    "points": "2",
+    "options": [
+      "Cascade Set Sheets",
+      "Cascade Style Sheets",
+      "Cascading Style Sheets",
+      "Cascading Set Sheets"
+    ]
+  },
+  {
+    "_id": "85510e70870c092d5441bc96",
+    "title": "Combustion",
+    "question": "Is combustion related to science?",
+    "format": "True/False",
+    "quiz": "75510e70870c092d5441bc94",
+    "options": [
+      "true",
+      "false"
+    ],
+    "points": "1"
+  },
+  {
+    "_id": "85510e70870c092d5441bc97",
+    "title": "Let's Think...",
+    "question": "What is combustion? It's about: _______",
+    "format": "Fill In The Blank",
+    "quiz": "75510e70870c092d5441bc94",
+    "options": [
+      "science",
+      "combustion"
+    ],
+    "points": "5"
+  },
+  {
+    "_id": "85510e70870c092d5441bc97",
+    "title": "Consider the following code snippet ___1___ ___2___=value ___3___ Fill in the blanks to create an input field who's who's default value is November 22, 2011.",
+    "question": "Consider the following code snippet ___1___ ___2___=value ___3___ Fill in the blanks to create an input field who's who's default value is November 22, 2011.",
+    "format": "Multiple Choice",
+    "quiz": "75510e70870c092d5441bc94",
+    "answer": [
+      "1"
+    ],
+    "points": "5",
+    "options": [
+      "type, date, 2011-11-22",
+      "input , date, 22-11-2022",
+      "type, datetime, 22-11-22"
+    ]
+  },
+  {
+    "_id": "85510e70870c092d5441bc98",
+    "title": "Which of the following options sets the background color of the heading below?",
+    "question": "Which of the following options sets the background color of the heading below?",
+    "format": "Multiple Choice",
+    "quiz": "75510e70870c092d5441bc95",
+    "answer": [
+      "1"
+    ],
+    "points": "1",
+    "options": [
+      "<style>h1 { background-color: blue }</style> <h1 class=\"blue\">Hello</h1>",
+      "<style>h1.blue { background-color: blue }</style> <h1 id=\"blue\">Hello</h1>",
+      "<style>h1#blue { background-color: blue }</style> <h1 class=\"blue\">Hello</h1>",
+      "<style>h1 blue { background-color: blue }</style> <h1 style=\"color: blue\">Hello</h1>"
+    ]
+  },
+  {
+    "_id": "85510e70870c092d5441bc99",
+    "title": "What is full form for CSS",
+    "question": "What is full form for CSS ",
+    "format": "Multiple Choice",
+    "quiz": "75510e70870c092d5441bc95",
+    "answer": [
+      "2"
+    ],
+    "points": "2",
+    "options": [
+      "Cascade Set Sheets",
+      "Cascade Style Sheets",
+      "Cascading Style Sheets",
+      "Cascading Set Sheets"
+    ]
+  },
+  {
+    "_id": "85510e70870c092d5441bc100",
+    "title": "Which of the following is the best practice to importing CSS in an HTML document? Disregard HTML syntax errors",
+    "question": "Which of the following is the best practice to importing CSS in an HTML document? Disregard HTML syntax errors",
+    "format": "Multiple Choice",
+    "quiz": "75510e70870c092d5441bc95",
+    "answer": [
+      "0"
+    ],
+    "points": "0",
+    "options": [
+      "<link href=\"styles.css\" rel=\"stylesheet\"/> <p>Lorem Ipsum</p> file styles.css in the same directory contains: p { color: red }",
+      "<style>p { color: red}</style> <p>Lorem Ipsum</p>",
+      "<style>.red { color: red}</style> <p class=\"red\">Lorem Ipsum</p>"
+    ]
+  },
+  {
+    "_id": "85510e70870c092d5441bc101",
+    "title": "Consider the following code snippet ___1___ ___2___=value ___3___ Fill in the blanks to create an input field who's who's default value is November 22, 2011.",
+    "question": "Consider the following code snippet ___1___ ___2___=value ___3___ Fill in the blanks to create an input field who's who's default value is November 22, 2011.",
+    "format": "Multiple Choice",
+    "quiz": "75510e70870c092d5441bc95",
+    "answer": [
+      "1"
+    ],
+    "points": "5",
+    "options": [
+      "type, date, 2011-11-22",
+      "input , date, 22-11-2022",
+      "type, datetime, 22-11-22"
+    ]
+  },
+  {
+    "_id": "85510e70870c092d5441bc102",
+    "title": "Which of the following options sets the background color of the heading below?",
+    "question": "Which of the following options sets the background color of the heading below?",
+    "format": "Multiple Choice",
+    "quiz": "75510e70870c092d5441bc96",
+    "answer": [
+      "1"
+    ],
+    "points": "1",
+    "options": [
+      "<style>h1 { background-color: blue }</style> <h1 class=\"blue\">Hello</h1>",
+      "<style>h1.blue { background-color: blue }</style> <h1 id=\"blue\">Hello</h1>",
+      "<style>h1#blue { background-color: blue }</style> <h1 class=\"blue\">Hello</h1>",
+      "<style>h1 blue { background-color: blue }</style> <h1 style=\"color: blue\">Hello</h1>"
+    ]
+  },
+  {
+    "_id": "85510e70870c092d5441bc103",
+    "title": "What is full form for CSS",
+    "question": "What is full form for CSS ",
+    "format": "Multiple Choice",
+    "quiz": "75510e70870c092d5441bc96",
+    "answer": [
+      "2"
+    ],
+    "points": "2",
+    "options": [
+      "Cascade Set Sheets",
+      "Cascade Style Sheets",
+      "Cascading Style Sheets",
+      "Cascading Set Sheets"
+    ]
+  },
+  {
+    "_id": "85510e70870c092d5441bc104",
+    "title": "Which of the following is the best practice to importing CSS in an HTML document? Disregard HTML syntax errors",
+    "question": "Which of the following is the best practice to importing CSS in an HTML document? Disregard HTML syntax errors",
+    "format": "Multiple Choice",
+    "quiz": "75510e70870c092d5441bc96",
+    "answer": [
+      "0"
+    ],
+    "points": "0",
+    "options": [
+      "<link href=\"styles.css\" rel=\"stylesheet\"/> <p>Lorem Ipsum</p> file styles.css in the same directory contains: p { color: red }",
+      "<style>p { color: red}</style> <p>Lorem Ipsum</p>",
+      "<style>.red { color: red}</style> <p class=\"red\">Lorem Ipsum</p>"
+    ]
+  },
+  {
+    "_id": "85510e70870c092d5441bc105",
+    "title": "Consider the following code snippet ___1___ ___2___=value ___3___ Fill in the blanks to create an input field who's who's default value is November 22, 2011.",
+    "question": "Consider the following code snippet ___1___ ___2___=value ___3___ Fill in the blanks to create an input field who's who's default value is November 22, 2011.",
+    "format": "Multiple Choice",
+    "quiz": "75510e70870c092d5441bc96",
+    "answer": [
+      "1"
+    ],
+    "points": "5",
+    "options": [
+      "type, date, 2011-11-22",
+      "input , date, 22-11-2022",
+      "type, datetime, 22-11-22"
+    ]
+  }
+]
